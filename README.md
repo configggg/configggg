@@ -11,7 +11,7 @@
     <h4 align="left">About me</h4>
   </summary>
   <p align="center">
-   <h5>a.<h5>
+   <h5>Minecraft Cheater, YouTuber and Programmer<h5>
     </a>
   </p>
 </details>

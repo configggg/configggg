@@ -1,6 +1,7 @@
 ## Hi, I'm configgg!
 
 <img width="90%" height="80%" src="https://github-widgetbox.vercel.app/api/profile?username=configggg&data=followers,repositories,stars,commits&theme=darkmode">
+
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=configggg&show_icons=true&theme=radical">
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=configggg&layout=compact">
 

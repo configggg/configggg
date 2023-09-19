@@ -1,8 +1,8 @@
 ## Hi, I'm configgg!
 
-<img width="70%" height="80%" src="https://github-widgetbox.vercel.app/api/profile?username=configggg&data=followers,repositories,stars,commits&theme=darkmode">
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api?username=configggg&show_icons=true&theme=radical">
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=configggg&layout=compact">
+<img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=configggg&data=followers,repositories,stars,commits&theme=darkmode">
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=configggg&show_icons=true&theme=radical">
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=configggg&layout=compact">
 
 <br clear="left">
 

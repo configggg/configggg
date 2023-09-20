@@ -16,6 +16,6 @@
   </p>
 </details>
 
-<img align="left" width="40%" src="https://discord.c99.nl/widget/theme-1/1150343570834870302.png">
+<img width="40%" src="https://discord.c99.nl/widget/theme-1/1150343570834870302.png">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'>](https://github.com/configggg) [<img src='https://simpleicons.org/icons/replit.svg' alt='Replit' height='30'>](https://replit.com/@configgg4221) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/@configgg4221)
